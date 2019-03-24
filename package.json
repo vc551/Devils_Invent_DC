@@ -1,0 +1,24 @@
+{
+  "name": "devilsinvent",
+  "version": "1.0.0",
+  "description": "disability assistance software",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vc551/Devils_Invent_DC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vc551/Devils_Invent_DC/issues"
+  },
+  "homepage": "https://github.com/vc551/Devils_Invent_DC#readme",
+  "dependencies": {
+    "ffmpeg": "0.0.4",
+    "nodemon": "^1.18.10",
+    "opencv4nodejs": "^4.14.1"
+  }
+}
